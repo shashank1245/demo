@@ -1,4 +1,4 @@
-add(){
-for(i=0;i<=10;i++);
-System.out.println("demo");
+addition(){
+for(i=0;i<=11;i++);
+System.out.println("sample");
 }
